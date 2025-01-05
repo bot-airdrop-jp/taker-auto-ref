@@ -32,7 +32,7 @@ Register Here : [Taker](https://earn.taker.xyz?start=0RRYY) | Use Code : SOuqHuG
 ## Jalankan
 
 ```bash
-python bot.py #or python3 bot.py
+python main.py #or python3 bot.py
 ```
 
 ## Discussion
