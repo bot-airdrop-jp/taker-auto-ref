@@ -26,13 +26,13 @@ Register Here : [Taker](https://earn.taker.xyz?start=0RRYY) | Use Code : SOuqHuG
 
 2. **Instal Requirements:**
    ```bash
-   pip install -r requirements.txt #or pip3 install -r requirements.txt
+   pip install -r requirements.txt
    ```
 
 ## Jalankan
 
 ```bash
-python main.py #or python3 bot.py
+python main.py
 ```
 
 ## Discussion
