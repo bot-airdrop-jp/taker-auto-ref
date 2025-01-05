@@ -1,7 +1,7 @@
 # Taker.xyz Autoreferral + Autotask
 
 Taker.xyz Autoreferral + Autotask
-Register Here : [Taker](https://earn.taker.xyz?start=0RRYY) | Use Code : SOuqHuGUHTZMLlT
+Register Here : [Taker](https://earn.taker.xyz?start=0RRYY)
 
 ## Fitur
 
